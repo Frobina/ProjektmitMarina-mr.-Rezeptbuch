@@ -1,2 +1,2 @@
-static/css/.gitkeep
-# Placeholder für CSS-Dateien
+static/css/.gitkeep    # Erstelle Datei css/.gitkeep --> damit wird der -css ordner sichbar
+static/js/.gitkeep     # Erstelle die Datei /js/.gitkeep --> damit wird der Js -Js ordner sichbar
